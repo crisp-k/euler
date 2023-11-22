@@ -8,7 +8,7 @@ approach, and ways to start wokring on the problem.
 
 Included is `commonMethods.py`, which contains functions that
 perform actions that are required by many of the solutions in
-this repo. It is meant to emphasize the skill of refactoring.
+this repo. It is meant to emphasize the skill of refactoring, 
 the DRY principle, as well as pattern recgonition. These are all
 worthwhile skills to develop when tackling these problems, and mirrors
 the use of common libraries in real-world problems.
